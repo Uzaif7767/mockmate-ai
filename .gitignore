@@ -24,5 +24,3 @@ dist-ssr
 *.sw?
 
 #envorment variables
-.env
-.env.*
